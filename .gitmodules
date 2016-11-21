@@ -1,0 +1,3 @@
+[submodule "themes/icarus-berchtoldia"]
+	path = themes/icarus-berchtoldia
+	url = https://NewtonBerchtoldia@github.com/AVBerchtoldia/hexo-theme-icarus.git
